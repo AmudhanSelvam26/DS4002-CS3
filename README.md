@@ -16,7 +16,7 @@
 ## A Map of Documentation
 
 ```text
-MI1-2/
+DS4002-CS3/
 ├── DATA/
 │   ├── Charlottesville_Employment_Data.csv
 │   ├── Charlottesville_Rent_Employment_Master.csv
@@ -33,5 +33,12 @@ MI1-2/
 │   ├── analysis.ipynb
 │   ├── data_extraction.py
 │   └── eda.py
+├── MATERIALS/
+│   ├── Getting Started Predicting Time Series Data with Facebook Prophet | by Jonas Dieckmann | TDS Archive | Medium.pdf
+│   ├── research-notes-12-10-25.pdf
+│   └── 3190.pdf
+├── CS3 Hook Amudhan Selvam-2.pdf
+├── CS3 Rubric Amudhan Selvam.pdf
 ├── README.md
 ```
+
