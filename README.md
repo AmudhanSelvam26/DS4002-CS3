@@ -54,4 +54,10 @@ Summarize what you found about rent and employment near UVA, whether the regress
 
 ## References
 
-List every source you cite (including course materials, documentation, and data providers) in IEEE style.
+List every source you cite (including course materials, documentation, and data providers) in IEEE style. For example (from the documents in /MATERIALS):
+
+[1] Dieckmann, Jonas. “Getting Started Predicting Time Series Data with Facebook Prophet.” Towards Data Science, January 23, 2025. https://towardsdatascience.com/getting-started-predicting-time-series-data-with-facebook-prophet-c74ad3040525/. 
+
+[2] Taylor, Sean J, and Benjamin Letham. Forecasting at scale, September 27, 2017. https://doi.org/10.7287/peerj.preprints.3190v2. 
+
+[3] “Unpacking the Relationship between Jobs and Apartment Demand.” NMHC. Accessed May 3, 2026. https://www.nmhc.org/research-insight/research-notes/2025/unpacking-the-relationship-between-jobs-and-apartment-demand/. 
