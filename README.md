@@ -44,7 +44,7 @@ Complete this section for **your** repository so someone else can go from the st
 
 1. **Data:** How you joined the rent and employment data (e.g., frequency, geography, date keys), handled missing values, and constructed the final analysis dataset. Point to the scripts that perform each step.
 2. **EDA:** What you plot to explain modeling choices and better understand the data provided.
-3. **Modeling:** How you fit a baseline Prophet model on rent only, then a model with Charlottesville employment as a regressor (and any lags or events you encode). State how you measure error (e.g., MAE on a held-out window) and, if you went for the additional challenge, how you measured the “5% better than baseline” requirement from the rubric.
+3. **Modeling:** How you fit a baseline Prophet model on rent only, then a model with Charlottesville employment as a regressor (and any lags or events you encode). State how you measure error (e.g., MAE on a reserved test period) and, if you went for the additional challenge, how you measured the “5% better than baseline” requirement from the rubric.
 4. **Outputs:** Which figures or tables in `OUTPUT/` support your main claims.
 
 
